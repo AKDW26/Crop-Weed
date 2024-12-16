@@ -1,0 +1,8 @@
+opencv-python
+numpy
+roboflow
+streamlit
+streamlit-option-menu
+supervision
+
+
